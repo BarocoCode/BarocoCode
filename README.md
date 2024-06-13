@@ -23,7 +23,7 @@
 - 👨🏻‍💻 I’m currently working on **Smart Sante Conseil**
 - 📚 I’m currently learning **Back-End** and more deepen on **React Native**
 - 📫 How to reach me **dragossnicolae19@gmail.com**
-- ⚡ Fun fact **1yr and half, and still think it's awesome**
+- ⚡ Fun fact, **1yr and half, and still think it's awesome**
 
 <br>
 <h3 align="left">Connect with me:</h3>
@@ -32,3 +32,12 @@
 <a href="https://www.instagram.com/dragossnicolae/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dragossnicolae" height="30" width="40" /></a>
 </p>
 <br>
+
+<h3 align="left">Languages and Tools:</h3>
+
+- Elder Gods
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,js," />
+  </a>
+</p>
