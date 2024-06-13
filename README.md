@@ -26,7 +26,7 @@
 - ⚡ Fun fact, **1yr and half, and still think it's awesome**
 
 <br>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's Connect 📡</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/dragos-ctin-nicolae/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dragosnicolae" height="30" width="40" /></a>
 <a href="https://www.instagram.com/dragossnicolae/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dragossnicolae" height="30" width="40" /></a>
