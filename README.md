@@ -41,3 +41,17 @@
     <img src="https://skillicons.dev/icons?i=html,js,css," />
   </a>
 </p>
+
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,vite,nextjs,redux,tailwind,materialui,bootstrap" />
+  </a>
+</p>
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,npm,webpack," />
+  </a>
+</p>
