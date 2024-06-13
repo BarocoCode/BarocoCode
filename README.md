@@ -1,6 +1,6 @@
 ![logo](hero-hub.png)
 
-<h1 align="center">Hi 🤝, I'm Dragos Nicolae</h1>
+<h1 align="center">Hi 🤝, I'm Dragos </h1>
 <h3 align="center">A passionate JR. Web Developer</h3>
 <p align="center">I am captivated by the transformative power of computer technology 🌐, revolutionizing our lives in ways we could never have imagined.</p>
 <p align="center">I learn every day from the valuable materials that seniors have left behind over time on their path.</p>
