@@ -20,3 +20,15 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 <br><br>
 
+- 👨🏻‍💻 I’m currently working on **Smart Sante Conseil**
+- 📚 I’m currently learning **Back-End** and more deepen on **React Native**
+- 📫 How to reach me **dragossnicolae19@gmail.com**
+- ⚡ Fun fact **1yr and half, and still think it's awesome**
+
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/dragos-ctin-nicolae/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dragosnicolae" height="30" width="40" /></a>
+<a href="https://www.instagram.com/dragossnicolae/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dragossnicolae" height="30" width="40" /></a>
+</p>
+<br>
