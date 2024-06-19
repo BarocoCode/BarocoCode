@@ -8,9 +8,11 @@
 <p align="center">
 <img align="center" src="https://komarev.com/ghpvc/?username=barocoCode&label=Profile%20views&color=0e75b6&style=flat" alt="dragos nicolae" /> 
  </p>
- <p align="center">My first single project</p>
-   <a align="center" href="https://housearoncept.com">House Art Concept
-  </a>
+ <p align="center">My first single project
+     <a align="center" href="https://housearoncept.com">House Art Concept
+ </p>
+
+
  
 <div align="center">
  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="44" height="44" />
