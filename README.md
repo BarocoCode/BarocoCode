@@ -8,8 +8,8 @@
 <p align="center">
 <img align="center" src="https://komarev.com/ghpvc/?username=barocoCode&label=Profile%20views&color=0e75b6&style=flat" alt="dragos nicolae" /> 
  </p>
- <p align="center">My first single project
-     <a align="center" href="https://housearconcept.com">House Art Concept
+ <p align="center">Own Creations
+     <a align="center" href="https://lagrandebellezza.vercel.app/">La Grande Bellezza
  </p>
 
 
