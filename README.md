@@ -26,8 +26,8 @@
 
 - 👨🏻‍💻 I’m currently working on **Smart Sante Conseil**
 - 📚 I’m currently learning **Back-End** and more deepen on **React Native**
-- 📫 How to reach me **dragossnicolae19@gmail.com**
-- ⚡ Fun fact, **1yr and half, and still think it's awesome**
+- 📫 How to reach me **dragossnicolae@icloud.com**
+
 
 <br>
 <h3 align="left">Let's Connect 📡</h3>
