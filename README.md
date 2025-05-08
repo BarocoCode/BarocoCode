@@ -25,14 +25,6 @@
 <br><br>
 
 
-<br>
-<h3 align="left">Let's Connect 📡</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/dragos-ctin-nicolae/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dragosnicolae" height="30" width="40" /></a>
-<a href="https://www.instagram.com/dragossnicolae/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dragossnicolae" height="30" width="40" /></a>
-</p>
-<br>
-
 <h3 align="left">Languages and Tools:</h3>
 
 - Elder Gods
