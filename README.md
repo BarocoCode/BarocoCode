@@ -24,10 +24,6 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 <br><br>
 
-- 👨🏻‍💻 I’m currently working on **Smart Sante Conseil**
-- 📚 I’m currently learning **Back-End** and more deepen on **React Native**
-- 📫 How to reach me **dragossnicolae@icloud.com**
-
 
 <br>
 <h3 align="left">Let's Connect 📡</h3>
