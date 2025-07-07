@@ -1,15 +1,6 @@
 ![logo](hero-hub.png)
 
 <h1 align="center">Hi 🤝, I'm Dragos </h1>
- 
-<div align="center">
- <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="44" height="44" />
- <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="44" height="44" />
- <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="44" height="44" />
- <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="44" height="44" />
- <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="44" height="44" />
- <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
-</div>
 
 <br>
 
